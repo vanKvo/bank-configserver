@@ -1,0 +1,11 @@
+build:
+  version: "DEV Loans 1.0"
+
+loan:
+    message: "Welcome to Dolphin Loan service"
+    contactDetails:
+      name: "John Smith - Developer"
+      email: "jsmith@dolphinbank.com"
+    onCallSupport:
+      - (888) 272-2727
+      - (999) 989-9999

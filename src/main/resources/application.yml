@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: "configserver"
+  profiles:
+    #active: native
+    active: git
+  cloud:
+    config:
+      server:
+        #native:
+          #search-locations: "classpath:/config"
+          #search-locations: "file:///Users//gabong//Documents//Programming//BankMicroservices//config"
+        git:
+          uri: "https://github.com/vanKvo/bankmicroservices-config.git"
+          default-label: main
+          timeout: 5
+          clone-on-start: true
+          force-pull: true
+encrypt:
+  key: "T2r6ZWBGvsBaUR9vg6QAtJ9PmdMfBPQW"
+
+server:
+  port: 8071

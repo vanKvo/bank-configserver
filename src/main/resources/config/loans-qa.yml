@@ -1,0 +1,11 @@
+build:
+  version: "QA Loans 1.0"
+
+accounts:
+  message: "Welcome to Dolphin Loan service in TEST"
+  contactDetails:
+    name: "Sam Hane - QA Team Lead"
+    email: "shane@dolphinbank.com"
+  onCallSupport:
+    - (881) 2772-2727
+    - (991) 989-9999

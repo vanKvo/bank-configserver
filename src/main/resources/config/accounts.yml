@@ -1,0 +1,11 @@
+build:
+  version: "DEV Accounts 1.0"
+
+accounts:
+  message: "Welcome to Dolphin Accounts service"
+  contactDetails:
+    name: "John Smith - Developer"
+    email: "jsmith@dolphinbank.com"
+  onCallSupport:
+    - (888) 272-2727
+    - (999) 989-9999

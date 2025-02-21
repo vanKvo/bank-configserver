@@ -1,0 +1,11 @@
+build:
+  version: "PROD Accounts 1.0"
+
+accounts:
+  message: "Welcome to Dolphin Accounts service in PROD"
+  contactDetails:
+    name: "Mary Jones - Support Team Lead"
+    email: "mjones@dolphinbank.com"
+  onCallSupport:
+    - (981) 2772-2727
+    - (999) 999-1111

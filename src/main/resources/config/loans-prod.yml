@@ -1,0 +1,11 @@
+build:
+  version: "PROD Loans 1.0"
+
+loan:
+  message: "Welcome to Dolphin Loan service in PROD"
+  contactDetails:
+    name: "Sam Hane - PROD Team Lead"
+    email: "shane@dolphinbank.com"
+  onCallSupport:
+    - (881) 2772-2727
+    - (991) 989-9999
